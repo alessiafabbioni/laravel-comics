@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 class Comic {
+    public $id;
     public $title;
     public $description;
     public $thumb;
@@ -13,7 +14,8 @@ class Comic {
     public $artists;
     public $writers;
 
-    public function __construct($data) {
+    public function __construct($id, $data) {
+        $this->id = $id;
         $this->title = $data["title"];
         $this->description = $data["description"];
         $this->thumb = $data["thumb"];
@@ -243,8 +245,8 @@ $comics = [
 
 $comicObjects = [];
 
-foreach ($comics as $comicData) {
-    $comicObjects[] = new Comic($comicData);
+foreach ($comics as $id => $comicData) {
+    $comicObjects[] = new Comic($id, $comicData);
 }
 
 /*

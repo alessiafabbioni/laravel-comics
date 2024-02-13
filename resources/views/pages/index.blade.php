@@ -7,10 +7,10 @@
         @php $comicsChunks = array_chunk($comics, 6); @endphp
         @foreach ($comicsChunks as $chunk)
             <div class="row">
-                @foreach ($chunk as $comic)
+                @foreach ($chunk as $id => $comic)
                     <div class="col">
                         <img src="{{ $comic['thumb'] }}" alt="{{ $comic['title'] }}">
-                        <h5>{{ $comic['title'] }}</h5>
+                        <a href="{{ route('comics.show', ['id' => $id]) }}">{{ $comic['title'] }}</a>
                     </div>
                 @endforeach
             </div>
