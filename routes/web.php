@@ -258,14 +258,14 @@ Route::get('/', function () {
 //loops for comics
 
 
-
 Route::get('/', function () use ($comics){
     return view ('pages.index', [
         'comics'=> $comics
     ]);
 }) ->name('comics.index');
 
-Route::get('/{id}', function ($id) {
-    return 'a single comic';
+Route::get('/{id}', function ($id) use ($comics) {
+    $comic = collect($comics)->firstWhere('id', $id);
+    return view('pages.show',['comic'=> $comic]);
 })->name('comics.show');
 
