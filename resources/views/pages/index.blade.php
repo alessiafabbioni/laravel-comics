@@ -22,6 +22,7 @@
 <style lang="scss" scoped>
     img {
         width: 100%;
+        overflow: hidden;
     }
 
 </style>

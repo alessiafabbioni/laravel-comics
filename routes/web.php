@@ -113,7 +113,7 @@ $comics = [
     [
         "title" => "Batman #56",
         "description" => "The Dark Knight’s looking to drop both the hammer and sickle on the KGBeast, whose rampage across Gotham City takes a toll on Nightwing when he’s injured in the fray. Blaming himself for his ward’s fate, Batman gets grimmer than usual—and vows to take the Russian assassin down like the Berlin Wall. Is even Gotham City ready for that much violence? The streets will run red like borscht if the Dark Knight gets his way against this Soviet scourge.",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/09/BM_56_300-001_HD_5ba137a85c3bf3.33122291.jpg?itok=3FHJQYJZ",
+        "thumb" => "https://pictures.abebooks.com/inventory/31064020265.jpg",
         "price" => "$3.99",
         "series" => "Batman",
         "sale_date" => "2018-10-03",
@@ -128,7 +128,7 @@ $comics = [
     [
         "title" => "Batman Beyond #1",
         "description" => "“THE RETURN” part one! Terry McGinnis is back as Batman, much to the delight of his family and friends. But is the original Joker really back as well? Inspired by the possible return of their role model, the Jokerz have taken over an entire section of Gotham City and are determined to wreak havoc in the still-rebuilding city. While Batman battles chaos on the streets, his friend Dana is at the mercy of the new leader of the now-unified gang.",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/09/BM_56_300-001_HD_5ba137a85c3bf3.33122291.jpg?itok=3FHJQYJZ",
+        "thumb" => "https://www.lospaziobianco.it/wp-content/uploads/2011/10/copertina-sovraimpressione.jpg",
         "price" => "$2.99",
         "series" => "Batman Beyond",
         "sale_date" => "2016-10-26",
@@ -143,7 +143,7 @@ $comics = [
     [
         "title" => "Batman/Superman #1",
         "description" => "Up in the sky, in the dark of the night, trust no one - for the infected walk among us. Spinning out of the devastating events of THE BATMAN WHO LAUGHS, Superman and Batman are together once more in an all-new monthly series - and they're facing a terrifying new threat that could strike from anywhere. The Dark Knight and the Man of Steel must journey into the depths of Gotham City to learn which of their fellow heroes has been transformed into the horrifying horseman of their most dangerous and deranged foe ever. Our heroes will need to fight to survive, but an even more dangerous question lurkes in the shadows: Can Superman and Batman even trust each other?",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2019/08/BMSM_5d4361b7116261.74371456.jpg?itok=kEDR2OL8",
+        "thumb" => "https://c8.alamy.com/comp/KT6DDT/wonder-comics-cover-1-KT6DDT.jpg",
         "price" => "$3.99",
         "series" => "Batman/Superman",
         "sale_date" => "2019-08-28",
@@ -158,7 +158,7 @@ $comics = [
     [
         "title" => "Batman/Superman Annual #1",
         "description" => "On a dark and stormy night in the fifth dimension, two mortal foes meet to settle an age-old question once and for all: In a fight between Batman and Superman, who would win? The combatants? Mr. Mxyzptlk and Bat-Mite. And in this battle for the ages, you will find out if a fifth-dimensional imp can bleed. It’s all in this, the ultimate slugfest between the Dark Knight and the Man of Steel-plus a whole lot of magic!",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/09/BMSMANN_01_300-001_HD_5f5ff17fa1d665.74704970.jpg?itok=azz5sfGk",
+        "thumb" => "https://i.pinimg.com/736x/6f/7c/fc/6f7cfc2af6e752b37ffd2bf1803f6e3d.jpg",
         "price" => "$4.99",
         "series" => "Batman/Superman Annual",
         "sale_date" => "2020-09-29",
@@ -175,7 +175,7 @@ $comics = [
     [
         "title" => "Batman: The Joker War Zone #1",
         "description" => "Gotham City is a battleground as The Joker takes over the Wayne fortune and wages a street war against the Dark Knight and his allies! Enter the “war zone” with short stories featuring characters like Cassandra Cain, Stephanie Brown, and Luke Fox and see how they’re fighting back in a city under siege! Also, the brutal full debut of the mysterious new anti-hero known as Clownhunter!",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/09/BMTJWZ_01_300-001_HD_5f5ff2307dcb37.34652945.jpg?itok=VswVjLR8",
+        "thumb" => "https://www.ilmercantedistampe.it/image/data/il-mercante/Stampe%20Americane/Cartoon2_sito.jpg",
         "price" => "$5.99",
         "series" => "Batman: The Joker War Zone",
         "sale_date" => "2020-09-29",
@@ -196,7 +196,7 @@ $comics = [
     [
         "title" => "Batman: Three Jokers #1",
         "description" => "Thirty years after Batman: The Killing Joke changed comics forever, Three Jokers reexamines the myth of who, or what, The Joker is and what is at the heart of his eternal battle with Batman. New York Times bestselling writer Geoff Johns and Jason Fabok, the writer/artist team that waged the “Darkseid War” in the pages of Justice League, reunite to tell the ultimate story of Batman and The Joker! After years of anticipation starting in DC Universe: Rebirth #1, the epic miniseries you’ve been waiting for is here: find out why there are three Jokers, and what that means for the Dark Knight and the Clown Prince of Crime. It’s a mystery unlike any Batman has ever faced!",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/08/cover-v2_5f40314645a734.37285065.png?itok=ImNM2QBY",
+        "thumb" => "https://www.lospaziobianco.it/wp-content/uploads/2013/12/Action_Comics_61_giugno43.jpg",
         "price" => "$6.99",
         "series" => "Batman: Three Jokers",
         "sale_date" => "2020-08-25",
@@ -211,7 +211,7 @@ $comics = [
     [
         "title" => "Batman: White Knight Presents: Harley Quinn #1",
         "description" => "The Joker is dead, Bruce Wayne is behind bars...and Gotham City is just starting to redefine itself without Batman. As Harley Quinn struggles to adjust to her new life as the mother of Jack Napier’s twins, an elusive mastermind called the Producer seizes the moment to assemble a crew of villains-starting with the Starlet, a serial killer who murders Gotham’s golden age film stars in homage to their silver screen roles. When a recent, gruesome crime scene suggests a connection to The Joker, the GTO, and FBI agent Hector Quimby turn to Harley as the one person with information that could crack the case. With some help from Bruce, Harley agrees to investigate-but to protect her children and her city from a fatal final act, Harley must flirt with madness and confront her own past.",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/10/BMWK_HQ_01_300-001_HD_5f7cb4945e13f6.89501032.jpg?itok=sVwALbUX",
+        "thumb" => "https://static.wikia.nocookie.net/marvel_dc/images/d/dc/Adventure_Comics_Vol_1_68.jpg/revision/latest?cb=20081111185832",
         "price" => "$4.99",
         "series" => "Batman: White Knight Presents: Harley Quinn",
         "sale_date" => "2020-10-20",
