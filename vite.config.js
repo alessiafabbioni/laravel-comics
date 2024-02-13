@@ -6,8 +6,8 @@ const path = require('path')
 export default defineConfig({
     plugins: [
         laravel([
-            '~res/scss/app.scss',
-            '~res/js/app.js',
+            '/resources/scss/app.scss',
+            '/resources/js/app.js',
         ]),
     ],
     resolve: {
