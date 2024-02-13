@@ -68,7 +68,7 @@ $comics = [
     [
         "title" => "American Vampire 1976 #1",
         "description" => "America is broken. Trust between the government and the American public has crumbled. Paranoia reigns supreme. It’s 1976, and this is the concluding chapter of the Eisner Award-winning American Vampire! Skinner Sweet has exhausted all efforts to regain his lost immortality. With his powers and purpose gone, he is now determined to go out with a bang. At a seedy motorcycle rally in the desert where he’s closer than ever to his death wish, Pearl Jones and a shocking partner track him down for one last, desperate mission: The force known as the Gray Trader and its minions are tunneling through the bowels of the world to unleash hell on Earth—just in time for America’s bicentennial. With catastrophe looming, it’s up to Skinner and Pearl to reconcile and change the course of history—or die trying. The series that launched the careers of superstars Scott Snyder and Rafael Albuquerque returns for nine final issues and the closing chapter of the legacy of American Vampire.",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2020/09/AV1976_01_300-001_HD_5f738f6e39ddd7.18205602.jpg?itok=VgdYdJ01",
+        "thumb" => "https://www.ilmercantedistampe.it/image/data/il-mercante/Stampe%20Americane/Batman1def_sito.jpg",
         "price" => "$3.99",
         "series" => "American Vampire 1976",
         "sale_date" => "2020-10-06",
@@ -83,7 +83,7 @@ $comics = [
     [
         "title" => "Aquaman Vol. 4: Underworld",
         "description" => "Enraged by rumors of Arthur’s survival in the slums of Atlantis, the ruthless King Rath orders the use of ancient Atlantean techno-magic to track down the Aquaman at all costs! But the ex-king Arthur can’t hide for long when his fate collides with that of a mysterious young woman on the run from Rath’s own secret police. Her name: Dolphin. Collects AQUAMAN #25-30.  ",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/gn-covers/2018/08/AQMv4_UW_153-001_HD_5b7efa1745a9b8.08589135.jpg?itok=HPTtnrsb",
+        "thumb" => "https://cdn.kobo.com/book-images/18b74e17-87ea-4cff-b4d5-dc2ccfdd64ab/1200/1200/False/superhero-comics-1.jpg",
         "price" => "$16.99",
         "series" => "Aquaman",
         "sale_date" => "2018-01-24",
@@ -98,7 +98,7 @@ $comics = [
     [
         "title" => "Batgirl #1",
         "description" => "“Beyond Burnside” Chapter One: The Batgirl you know and love is going global with Eisner Award-winning and New York Times best-selling writer Hope Larson (A Wrinkle in Time, Goldie Vance) and all-star artist Rafael Albuquerque (AMERICAN VAMPIRE). In order to up her game, Babs travels to Japan on a quest to train with the most elite modern combat masters of the East. But when a chance meeting with an old friend puts a target on her back, Batgirl may need to use her new skills to solve a deadly mystery.",
-        "thumb" => "https://www.dccomics.com/sites/default/files/styles/covers192x291/public/comic-covers/2018/06/batgirl_v5_1_5b23e1f1124941.50950783.jpg?itok=VnrJah76",
+        "thumb" => "https://i.pinimg.com/236x/46/95/88/469588d51b5e52106d459a301c9372c4.jpg",
         "price" => "$2.99",
         "series" => "Batgirl",
         "sale_date" => "2016-07-27",

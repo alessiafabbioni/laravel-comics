@@ -15,5 +15,13 @@
                 @endforeach
             </div>
         @endforeach
-  </div>
+    </div>
 @endsection
+
+
+<style lang="scss" scoped>
+    img {
+        width: 100%;
+    }
+
+</style>
